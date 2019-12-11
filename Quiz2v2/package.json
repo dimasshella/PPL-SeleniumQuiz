@@ -1,0 +1,16 @@
+{
+    "name": "Quiz2v2",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Dimas Shella",
+    "license": "ISC",
+    "dependencies": {
+      "chromedriver": "^79.0.0",
+      "selenium-webdriver": "^4.0.0-alpha.5",
+      "webdriver": "^5.16.15"
+    }
+  }
+  
